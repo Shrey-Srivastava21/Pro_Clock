@@ -1,4 +1,4 @@
-# Pro_Globe
+# Pro_Clock
 Clock
 Analog & Digital Clock
 
